@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="Maven__mysql_mysql-connector-java_unknown">
+    <output-path>$PROJECT_DIR$/../../../../../../../../../Glassfish/glassfish6/glassfish/lib/mysql-connector-java-8.0.29</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/../../../../../../../../../Glassfish/glassfish6/glassfish/lib/mysql-connector-java-8.0.29/mysql-connector-java-8.0.29.jar" />
+    </root>
+  </artifact>
+</component>
